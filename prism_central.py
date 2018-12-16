@@ -47,30 +47,6 @@ The following groups are generated from --list:
  - status_STATUS
  - category_NAME_VALUES
 
-For each host, the following variables are registered:
- - do_backup_ids
- - do_created_at
- - do_disk
- - do_features - list
- - do_id
- - do_image - object
- - do_ip_address
- - do_private_ip_address
- - do_kernel - object
- - do_locked
- - do_memory
- - do_name
- - do_networks - object
- - do_next_backup_window
- - do_region - object
- - do_size - object
- - do_size_slug
- - do_snapshot_ids - list
- - do_status
- - do_tags
- - do_vcpus
- - do_volume_ids
-
 -----
 ```
 usage: prism_central.py [-h] [--list] [--host HOST] [--all] [--vms]
