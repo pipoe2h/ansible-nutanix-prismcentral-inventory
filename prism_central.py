@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 PrismCentral external inventory script
 ======================================
